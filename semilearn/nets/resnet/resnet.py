@@ -223,7 +223,7 @@ class ResNet50(nn.Module):
         """
 
         if only_fc:
-            return self.fc(x)
+            return self.classifier(x)
 
         x = self.extract(x)
         x = self.avgpool(x)
@@ -263,4 +263,6 @@ class ResNet50(nn.Module):
 
 def resnet50(pretrained=False, pretrained_path=None, **kwargs):
     model = ResNet50(**kwargs)
+    if pretrained:
+        model = load_checkpoint(model, pretrained_path)
     return model

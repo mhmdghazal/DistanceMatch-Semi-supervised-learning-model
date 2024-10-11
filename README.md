@@ -338,7 +338,7 @@ The USB community is maintained by:
 
 ## Citing USB
 
-Please cite us if you fine this project helpful for your project/paper:
+Please cite us if you find this project helpful for your project/paper:
 
 ```
 @inproceedings{usb2022,
@@ -376,7 +376,7 @@ Please cite us if you fine this project helpful for your project/paper:
 
 ## Acknowledgments
 
-We thanks the following projects for reference of creating USB:
+We thank the following projects for reference in creating USB:
 
 - [TorchSSL](https://github.com/TorchSSL/TorchSSL)
 - [FixMatch](https://github.com/google-research/fixmatch)

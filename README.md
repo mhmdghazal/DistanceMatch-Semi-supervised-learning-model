@@ -4,7 +4,7 @@
 The major training framework is developed and maintained in:
 https://github.com/microsoft/Semi-supervised-learning
 
-Note: The code will be available after paper submission
+Note: The code will be available in this repo after paper submission
 
 <!-- ACKNOWLEDGMENTS -->
 

@@ -1,9 +1,10 @@
-Expanding Boundaries of Semi-Supervised Learning: DistanceMatch for Consistent Image Classification
+"Expanding Boundaries of Semi-Supervised Learning: DistanceMatch for Consistent Image Classification"
 
 
 The major training framework is developed and maintained in:
 https://github.com/microsoft/Semi-supervised-learning
 
+Note: The code will be available after paper submission
 
 <!-- ACKNOWLEDGMENTS -->
 
